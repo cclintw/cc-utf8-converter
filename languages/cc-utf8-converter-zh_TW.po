@@ -1,0 +1,114 @@
+# Copyright (C) 2026 Chance Lin
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CC UTF8 Converter 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cc-utf8-"
+"converter\n"
+"Last-Translator: Chance Lin <chance@chancedemacbook-air.local>\n"
+"Language-Team: Chinese (Traditional) <zh-l10n@lists.slat.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-07T09:13:14+00:00\n"
+"PO-Revision-Date: 2026-04-07 17:13+0800\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: cc-utf8-converter\n"
+"Language: zh_TW\n"
+
+#. Plugin Name of the plugin
+#: cc-utf8-converter.php
+msgid "CC UTF8 Converter"
+msgstr "CC UTF8 轉換器"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: cc-utf8-converter.php
+msgid "https://cclin.cc"
+msgstr "https://cclin.cc"
+
+#. Description of the plugin
+#: cc-utf8-converter.php
+msgid ""
+"Convert uploaded plain text files (BIG5, SJIS, GB2312, etc.) to UTF-8 and "
+"download them automatically. Supports both admin and frontend, and temporary "
+"files are deleted after download."
+msgstr ""
+"將上傳的純文字檔案（BIG5、SJIS、GB2312 等）轉換為 UTF-8 並自動下載。支援前台與後台使用，下載後暫存檔案會自動刪除。"
+
+#. Author of the plugin
+#: cc-utf8-converter.php
+msgid "Chance Lin"
+msgstr "Chance Lin"
+
+#: cc-utf8-converter.php:51 cc-utf8-converter.php:52
+msgid "UTF-8 Converter"
+msgstr "UTF-8 轉換器"
+
+#: cc-utf8-converter.php:69
+msgid "File to UTF-8"
+msgstr "檔案轉換為 UTF-8"
+
+#: cc-utf8-converter.php:71
+msgid "Convert any text file encoding to Unicode UTF-8."
+msgstr "將任何文字檔案編碼轉換為 Unicode UTF-8。"
+
+#: cc-utf8-converter.php:75
+msgid "Choose a file to convert"
+msgstr "選擇要轉換的檔案"
+
+#: cc-utf8-converter.php:88
+msgid "Drag a file here, or click to choose a file."
+msgstr "拖曳檔案到這裡，或點擊選擇檔案"
+
+#: cc-utf8-converter.php:91 cc-utf8-converter.php:131
+msgid "No file selected."
+msgstr "尚未選擇任何檔案"
+
+#: cc-utf8-converter.php:95
+msgid "Supported formats: .txt, .htm, .html, .xhtml, .csv, .xml, .md"
+msgstr "支援格式：.txt、.htm、.html、.xhtml、.csv、.xml、.md"
+
+#: cc-utf8-converter.php:104
+msgid "Convert to UTF-8 and Download"
+msgstr "轉換為 UTF-8 並下載"
+
+#: cc-utf8-converter.php:106
+msgid "Help"
+msgstr "說明"
+
+#: cc-utf8-converter.php:113
+msgid ""
+"Traditional Chinese text files were often encoded in Big5 in the past. If "
+"old files are not converted to UTF-8 first, they may display garbled text in "
+"different editors, systems, or browsers. This tool converts text files "
+"directly to UTF-8 without opening the original file."
+msgstr ""
+"早期繁體中文文字檔多使用 Big5 編碼。若未先轉換為 UTF-8，在不同編輯器、系統或瀏覽器中可能出現亂碼。此工具可在不開啟原始檔案的情況下，直接將文字檔轉換為 UTF-8。"
+
+#: cc-utf8-converter.php:116
+msgid ""
+"1. Automatically detects common encodings such as UTF-8, BIG5, SJIS, and "
+"GB2312."
+msgstr "1. 自動判斷常見編碼，例如 UTF-8、BIG5、SJIS、GB2312。"
+
+#: cc-utf8-converter.php:117
+msgid "2. Converts file content to UTF-8."
+msgstr "2. 將檔案內容轉換為 UTF-8。"
+
+#: cc-utf8-converter.php:118
+msgid "3. Replaces unsupported or invalid characters with ■."
+msgstr "3. 將不支援或無效字元以 ■ 取代。"
+
+#: cc-utf8-converter.php:119
+msgid ""
+"4. Downloads the converted file directly and does not keep it on the server."
+msgstr "4. 轉換完成後直接下載，伺服器不保留檔案。"
+
+#: cc-utf8-converter.php:132
+msgid "Selected: "
+msgstr "已選擇："
+
+#: cc-utf8-converter.php:257
+msgid "Upload error."
+msgstr "上傳錯誤"

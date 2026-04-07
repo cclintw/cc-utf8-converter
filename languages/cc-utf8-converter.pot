@@ -1,0 +1,102 @@
+# Copyright (C) 2026 Chance Lin
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CC UTF8 Converter 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cc-utf8-converter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-07T09:13:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: cc-utf8-converter\n"
+
+#. Plugin Name of the plugin
+#: cc-utf8-converter.php
+msgid "CC UTF8 Converter"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: cc-utf8-converter.php
+msgid "https://cclin.cc"
+msgstr ""
+
+#. Description of the plugin
+#: cc-utf8-converter.php
+msgid "Convert uploaded plain text files (BIG5, SJIS, GB2312, etc.) to UTF-8 and download them automatically. Supports both admin and frontend, and temporary files are deleted after download."
+msgstr ""
+
+#. Author of the plugin
+#: cc-utf8-converter.php
+msgid "Chance Lin"
+msgstr ""
+
+#: cc-utf8-converter.php:51
+#: cc-utf8-converter.php:52
+msgid "UTF-8 Converter"
+msgstr ""
+
+#: cc-utf8-converter.php:69
+msgid "File to UTF-8"
+msgstr ""
+
+#: cc-utf8-converter.php:71
+msgid "Convert any text file encoding to Unicode UTF-8."
+msgstr ""
+
+#: cc-utf8-converter.php:75
+msgid "Choose a file to convert"
+msgstr ""
+
+#: cc-utf8-converter.php:88
+msgid "Drag a file here, or click to choose a file."
+msgstr ""
+
+#: cc-utf8-converter.php:91
+#: cc-utf8-converter.php:131
+msgid "No file selected."
+msgstr ""
+
+#: cc-utf8-converter.php:95
+msgid "Supported formats: .txt, .htm, .html, .xhtml, .csv, .xml, .md"
+msgstr ""
+
+#: cc-utf8-converter.php:104
+msgid "Convert to UTF-8 and Download"
+msgstr ""
+
+#: cc-utf8-converter.php:106
+msgid "Help"
+msgstr ""
+
+#: cc-utf8-converter.php:113
+msgid "Traditional Chinese text files were often encoded in Big5 in the past. If old files are not converted to UTF-8 first, they may display garbled text in different editors, systems, or browsers. This tool converts text files directly to UTF-8 without opening the original file."
+msgstr ""
+
+#: cc-utf8-converter.php:116
+msgid "1. Automatically detects common encodings such as UTF-8, BIG5, SJIS, and GB2312."
+msgstr ""
+
+#: cc-utf8-converter.php:117
+msgid "2. Converts file content to UTF-8."
+msgstr ""
+
+#: cc-utf8-converter.php:118
+msgid "3. Replaces unsupported or invalid characters with ■."
+msgstr ""
+
+#: cc-utf8-converter.php:119
+msgid "4. Downloads the converted file directly and does not keep it on the server."
+msgstr ""
+
+#: cc-utf8-converter.php:132
+msgid "Selected: "
+msgstr ""
+
+#: cc-utf8-converter.php:257
+msgid "Upload error."
+msgstr ""
