@@ -19,7 +19,7 @@ msgstr ""
 #. Plugin Name of the plugin
 #: cc-utf8-converter.php
 msgid "CC UTF8 Converter"
-msgstr "CC UTF8 轉換器"
+msgstr "CC UTF8 Converter"
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
@@ -43,7 +43,7 @@ msgstr "Chance Lin"
 
 #: cc-utf8-converter.php:51 cc-utf8-converter.php:52
 msgid "UTF-8 Converter"
-msgstr "UTF-8 轉換器"
+msgstr "UTF-8 Converter"
 
 #: cc-utf8-converter.php:69
 msgid "File to UTF-8"
